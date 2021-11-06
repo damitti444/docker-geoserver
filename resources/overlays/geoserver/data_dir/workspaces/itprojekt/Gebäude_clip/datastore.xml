@@ -1,0 +1,15 @@
+<dataStore>
+  <id>DataStoreInfoImpl-38867d9e:17c93905b25:-7faf</id>
+  <name>Gebäude_clip</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-38867d9e:17c93905b25:-7fb1</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="namespace">http://opengeo.org/#itprojekt</entry>
+    <entry key="url">file:/Users/simon/Downloads/JKU IT-Projekt/JKU IT-Projekt/Gebäude_clip.shp</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-10-18 14:53:16.422 UTC</dateCreated>
+</dataStore>
